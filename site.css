@@ -1,0 +1,194 @@
+body {
+    background-color: #EEEFF1;
+    font-family: sans-serif;
+} 
+
+.container {
+    width: 1200px; 
+    margin: 0 auto;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.header { 
+    padding-top: 79px;
+}
+
+nav li {
+    display: inline-block;
+    color: black;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1a0000;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    font-family: sans-serif;
+    font-style: bold;
+    text-align: justify;
+}
+
+nav a:hover {
+    color: #34547A;
+}
+
+.heading {
+    font-size: 48px;
+    line-height: 78.75px;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-style: bold;
+}
+
+.ctext {
+    max-width: 520px;
+    font-size: 16px;
+    line-height: 26.25px;
+    font-weight: 400;
+    font-family: sans-serif; 
+    color: #727272;
+}
+
+.but {
+    padding: 20px 41px;
+    font-family: sans-serif; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26.25px;
+    letter-spacing: 10%; 
+    background-color: #34547A;
+    color: white;
+    border: #34547A;
+    margin-top: 70px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.design-and-layout {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}  
+
+.About {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-color: white;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.aboutcontent {
+    text-align: center;
+    max-width: 520px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #1a0000;
+    font-family: sans-serif;
+}
+
+p {
+    color: #727272;
+    font-family:sans-serif;
+}
+
+.aboutp {
+    font: #727272;
+    font-size: 16px;
+}
+
+.titleabout {
+    font: black;
+    font-size: 32px; 
+}
+
+.logos {
+    background-color: #34547A;
+    padding: 100px 0 ;
+    
+}
+
+.footsub {
+    
+    display: inline-block;
+    height: 50px;
+   
+}
+
+.fn {
+    background-color: #34547A;
+    height: 151px;
+}
+
+.video {
+    background-color: #EEEFF1;
+}
+
+.containerv {
+    height: 1004px;
+    width: 1920px;
+    margin: 0 auto;
+    text-align: center;
+    color: #727272;
+    margin-bottom: 75px;
+    padding-top: 75px;
+
+}
+.videotext {
+    height: 147px;
+    max-width: 540px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    color: #727272;
+}
+
+.src {
+    height: 600px;
+    width: 1110px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.hdi {
+    font: black;
+    font-size: 32px;
+    
+}
+
+.name {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 21px;
+    padding-top: 29px;
+    color: white;
+}
+
+.name:first-letter {
+    font-size: 30px;
+    font-weight: bold;
+    color: #EEEFF1;
+}
+
+.right {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    height: 12px;
+    color: white;
+}
+@font-face {
+    font-family: "Roboto"; 
+    src:  url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,500&display=swap');
+    font-style: normal; 
+    font-weight: normal; 
+}
